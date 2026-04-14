@@ -4,4 +4,4 @@ Sito pubblico per:
 
 - Privacy Policy URL
 - Support URL
-- By Giuseppe Bernardi 
+-- By Giuseppe Bernardi 
